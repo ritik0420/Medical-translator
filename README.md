@@ -302,9 +302,6 @@ Check the browser console (F12) for detailed error messages and debugging inform
 - [ ] Custom language models
 - [ ] Integration with EHR systems
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
